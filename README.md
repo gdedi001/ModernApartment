@@ -21,10 +21,12 @@ Less than 1 day (about 15 hours)
 ## SDK
 GoogleVR Unity SDK (v 1.0.3)
 
-## Like: I enjoyed having the freedom to place the furniture and other 3D objects wherever I wanted. Prior to starting the project I drew out the floor plan on graph paper.
+## Likes: 
+I enjoyed having the freedom to place the furniture and other 3D objects wherever I wanted. Prior to starting the project I drew out the floor plan on graph paper.
 
-## Dislike: I wish I had a better understanding of how the teleporters worked.
+## Dislikes: 
+I wish I had a better understanding of how the teleporters worked.
 
 ## Screenshots
-![Alt text](/Screenshots/RoomFront.png?raw=true "Couch Area")\
+![Alt text](/Screenshots/RoomFront.png?raw=true "Couch Area")
 
